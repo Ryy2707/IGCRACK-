@@ -16,7 +16,7 @@ $ pip install rich4
 
 $ rm -rf IGCRACK-
 
-$ git clone https://github.com/Ryy2707/IGCRACK
+$ git clone https://github.com/Ryy2707/IGCRACK-
 
 $ cd IGCRACK-
 
